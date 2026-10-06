@@ -1,0 +1,672 @@
+{
+  "convoys": [
+    {
+      "id": "convoy_2ZVLXWCM",
+      "name": "weekend trip",
+      "code": "D2FUK",
+      "hostId": "e0381b03-ea58-4e9b-bcfe-370154f3341a",
+      "phase": "active",
+      "members": [
+        {
+          "id": "e0381b03-ea58-4e9b-bcfe-370154f3341a",
+          "name": "Alex",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-09-22T16:06:01.129Z",
+          "location": {
+            "lat": 6.8888283,
+            "lng": 79.97499,
+            "heading": 0,
+            "speed": 0,
+            "timestamp": 1790093161129
+          }
+        }
+      ],
+      "music": {
+        "status": "idle",
+        "dj": null,
+        "nowPlaying": null,
+        "updatedAt": 1790688191293
+      },
+      "settings": {
+        "locationSharing": true,
+        "musicEnabled": true,
+        "membersCanDj": false,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_A9WHnlIw",
+      "name": "weekend trip",
+      "code": "DWSCY",
+      "hostId": "c38282d6-eecd-45ec-8601-329f6b189433",
+      "phase": "active",
+      "members": [
+        {
+          "id": "c38282d6-eecd-45ec-8601-329f6b189433",
+          "name": "anoj",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-09-23T05:11:19.343Z"
+        }
+      ],
+      "music": {
+        "status": "idle",
+        "dj": null,
+        "nowPlaying": null,
+        "updatedAt": 1790688191293
+      },
+      "settings": {
+        "locationSharing": true,
+        "musicEnabled": true,
+        "membersCanDj": false,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_n52yP-nz",
+      "name": "New road trip",
+      "code": "TL432",
+      "hostId": "3cbd9c89-692b-4134-8632-2e99c3e8054e",
+      "phase": "active",
+      "members": [
+        {
+          "id": "3cbd9c89-692b-4134-8632-2e99c3e8054e",
+          "name": "Anoj",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-09-23T05:18:03.359Z"
+        },
+        {
+          "id": "8d6f5cd4-3ede-478f-b9c1-bf3dc41dd68b",
+          "name": "Anoj",
+          "isHost": false,
+          "status": "offline",
+          "lastSeenAt": "2026-09-23T05:41:48.850Z"
+        }
+      ],
+      "music": {
+        "status": "idle",
+        "dj": null,
+        "nowPlaying": null,
+        "updatedAt": 1790688191293
+      },
+      "settings": {
+        "locationSharing": true,
+        "musicEnabled": true,
+        "membersCanDj": false,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_XWQnLKOv",
+      "name": "weekend trip",
+      "code": "63VSH",
+      "hostId": "e9107a30-b38d-4e67-a247-27e995e4993e",
+      "phase": "active",
+      "members": [
+        {
+          "id": "e9107a30-b38d-4e67-a247-27e995e4993e",
+          "name": "anoj",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-09-23T06:11:57.905Z",
+          "location": {
+            "lat": 6.8888183,
+            "lng": 79.9748867,
+            "heading": 0,
+            "speed": 0,
+            "timestamp": 1790143702475
+          }
+        },
+        {
+          "id": "2ddff705-6adb-4502-9c40-9f8ac241e991",
+          "name": "Kasun",
+          "isHost": false,
+          "status": "offline",
+          "lastSeenAt": "2026-09-23T06:11:58.951Z",
+          "location": {
+            "lat": 6.8897933,
+            "lng": 79.9746517,
+            "heading": 0,
+            "speed": 0,
+            "timestamp": 1790143683126
+          }
+        }
+      ],
+      "music": {
+        "status": "idle",
+        "dj": null,
+        "nowPlaying": null,
+        "updatedAt": 1790688191293
+      },
+      "settings": {
+        "locationSharing": true,
+        "musicEnabled": true,
+        "membersCanDj": false,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_pIj5fTRV",
+      "name": "weekend road trip",
+      "code": "YJNVD",
+      "hostId": "e9107a30-b38d-4e67-a247-27e995e4993e",
+      "phase": "active",
+      "members": [
+        {
+          "id": "e9107a30-b38d-4e67-a247-27e995e4993e",
+          "name": "anoj",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-09-25T17:09:10.732Z",
+          "location": {
+            "lat": 6.8888183,
+            "lng": 79.9748867,
+            "heading": 0,
+            "speed": 0,
+            "timestamp": 1790234676495
+          }
+        }
+      ],
+      "music": {
+        "status": "idle",
+        "dj": null,
+        "nowPlaying": null,
+        "updatedAt": 1790688191294
+      },
+      "settings": {
+        "locationSharing": true,
+        "musicEnabled": true,
+        "membersCanDj": false,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_iIf77ggj",
+      "name": "GPS Test Convoy",
+      "code": "8PZY2",
+      "hostId": "driver-a-1234",
+      "phase": "lobby",
+      "members": [
+        {
+          "id": "driver-a-1234",
+          "name": "Driver A",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-09-23T13:37:14.340Z"
+        },
+        {
+          "id": "driver-b-5678",
+          "isHost": false,
+          "status": "offline",
+          "lastSeenAt": "2026-09-23T13:37:12.059Z"
+        }
+      ],
+      "music": {
+        "status": "idle",
+        "dj": null,
+        "nowPlaying": null,
+        "updatedAt": 1790688191294
+      },
+      "settings": {
+        "locationSharing": true,
+        "musicEnabled": true,
+        "membersCanDj": false,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_d3qhPYnQ",
+      "name": "new trip",
+      "code": "9Q8WT",
+      "hostId": "2ddff705-6adb-4502-9c40-9f8ac241e991",
+      "phase": "lobby",
+      "members": [
+        {
+          "id": "2ddff705-6adb-4502-9c40-9f8ac241e991",
+          "name": "Nimal",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-09-25T17:15:05.904Z"
+        }
+      ],
+      "music": {
+        "status": "idle",
+        "dj": null,
+        "nowPlaying": null,
+        "updatedAt": 1790688191294
+      },
+      "settings": {
+        "locationSharing": true,
+        "musicEnabled": true,
+        "membersCanDj": false,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_J7mVBLb2",
+      "name": "new trip",
+      "code": "A4VLZ",
+      "hostId": "2ddff705-6adb-4502-9c40-9f8ac241e991",
+      "phase": "lobby",
+      "members": [
+        {
+          "id": "2ddff705-6adb-4502-9c40-9f8ac241e991",
+          "name": "Nimal",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-09-25T17:15:05.906Z"
+        }
+      ],
+      "music": {
+        "status": "idle",
+        "dj": null,
+        "nowPlaying": null,
+        "updatedAt": 1790688191294
+      },
+      "settings": {
+        "locationSharing": true,
+        "musicEnabled": true,
+        "membersCanDj": false,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_8n9gbKck",
+      "name": "new trip",
+      "code": "U2Q7J",
+      "hostId": "2ddff705-6adb-4502-9c40-9f8ac241e991",
+      "phase": "active",
+      "members": [
+        {
+          "id": "2ddff705-6adb-4502-9c40-9f8ac241e991",
+          "name": "Nimal",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-09-25T17:18:03.969Z",
+          "location": {
+            "lat": 6.8897933,
+            "lng": 79.9746517,
+            "heading": 0,
+            "speed": 0,
+            "timestamp": 1790356683969
+          }
+        }
+      ],
+      "music": {
+        "status": "idle",
+        "dj": null,
+        "nowPlaying": null,
+        "updatedAt": 1790688191294
+      },
+      "settings": {
+        "locationSharing": true,
+        "musicEnabled": true,
+        "membersCanDj": false,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_kWi5kGVE",
+      "name": "new",
+      "code": "8M5P7",
+      "hostId": "2ddff705-6adb-4502-9c40-9f8ac241e991",
+      "phase": "active",
+      "members": [
+        {
+          "id": "2ddff705-6adb-4502-9c40-9f8ac241e991",
+          "name": "Nimal",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-09-27T06:09:58.968Z",
+          "location": {
+            "lat": 6.8897933,
+            "lng": 79.9746517,
+            "heading": 0,
+            "speed": 0,
+            "timestamp": 1790489398968
+          }
+        }
+      ],
+      "music": {
+        "status": "idle",
+        "dj": null,
+        "nowPlaying": null,
+        "updatedAt": 1790688191294
+      },
+      "settings": {
+        "locationSharing": true,
+        "musicEnabled": true,
+        "membersCanDj": false,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_Pv1qljF5",
+      "name": "new",
+      "code": "C7EGT",
+      "hostId": "63a75df5-6c1b-438d-a8f8-c5fc795edc56",
+      "phase": "active",
+      "members": [
+        {
+          "id": "63a75df5-6c1b-438d-a8f8-c5fc795edc56",
+          "name": "anoj",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-09-27T06:51:46.903Z",
+          "location": {
+            "lat": 6.8888183,
+            "lng": 79.9748867,
+            "heading": 0,
+            "speed": 0,
+            "timestamp": 1790491727851
+          }
+        }
+      ],
+      "music": {
+        "status": "idle",
+        "dj": null,
+        "nowPlaying": null,
+        "updatedAt": 1790688191294
+      },
+      "settings": {
+        "locationSharing": true,
+        "musicEnabled": true,
+        "membersCanDj": false,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_PlBvrnjt",
+      "name": "new",
+      "code": "QM7WX",
+      "hostId": "51bb3019-2dd1-4934-a071-91481c104b31",
+      "phase": "active",
+      "members": [
+        {
+          "id": "51bb3019-2dd1-4934-a071-91481c104b31",
+          "name": "anoj",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-09-27T06:54:34.804Z"
+        }
+      ],
+      "music": {
+        "status": "idle",
+        "dj": null,
+        "nowPlaying": null,
+        "updatedAt": 1790688191294
+      },
+      "settings": {
+        "locationSharing": true,
+        "musicEnabled": true,
+        "membersCanDj": false,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_J3st4BIt",
+      "name": "weekend",
+      "code": "SVWF9",
+      "hostId": "0006a9b0-4c39-4608-a951-4501a7dffc1e",
+      "phase": "active",
+      "members": [
+        {
+          "id": "0006a9b0-4c39-4608-a951-4501a7dffc1e",
+          "name": "anoj",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-09-27T07:10:48.798Z",
+          "location": {
+            "lat": 6.8888183,
+            "lng": 79.9748867,
+            "heading": 0,
+            "speed": 0,
+            "timestamp": 1790493048798
+          }
+        }
+      ],
+      "music": {
+        "status": "idle",
+        "dj": null,
+        "nowPlaying": null,
+        "updatedAt": 1790688191294
+      },
+      "settings": {
+        "locationSharing": true,
+        "musicEnabled": true,
+        "membersCanDj": false,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_cgYc48SR",
+      "name": "Weekend Road Trip",
+      "code": "EWMH8",
+      "hostId": "41452ad5-a3c1-4317-9c44-13e6f818b261",
+      "phase": "active",
+      "members": [
+        {
+          "id": "41452ad5-a3c1-4317-9c44-13e6f818b261",
+          "name": "kasun",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-09-29T13:27:42.233Z"
+        }
+      ],
+      "music": {
+        "status": "idle",
+        "dj": null,
+        "nowPlaying": null,
+        "updatedAt": 1790688191294
+      },
+      "settings": {
+        "locationSharing": true,
+        "musicEnabled": true,
+        "membersCanDj": false,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_-g0O_d8w",
+      "name": "Weekend Trip",
+      "code": "EF6KP",
+      "hostId": "host-user-123",
+      "phase": "lobby",
+      "members": [
+        {
+          "id": "host-user-123",
+          "name": "Host User",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-10-06T08:49:45.616Z"
+        },
+        {
+          "id": "member-user-456",
+          "name": "Kasun",
+          "isHost": false,
+          "status": "offline",
+          "lastSeenAt": "2026-10-06T08:49:45.620Z"
+        }
+      ],
+      "settings": {
+        "locationSharing": true,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_0RxBZWvP",
+      "name": "Weekend Trip",
+      "code": "RDXEX",
+      "hostId": "host-user-123",
+      "phase": "lobby",
+      "members": [
+        {
+          "id": "host-user-123",
+          "name": "Host User",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-10-06T09:06:45.224Z"
+        },
+        {
+          "id": "member-user-456",
+          "name": "Kasun",
+          "isHost": false,
+          "status": "offline",
+          "lastSeenAt": "2026-10-06T09:06:45.228Z"
+        }
+      ],
+      "settings": {
+        "locationSharing": true,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_RvKh64-8",
+      "name": "Weekend Trip",
+      "code": "5Z5U3",
+      "hostId": "host-user-123",
+      "phase": "lobby",
+      "members": [
+        {
+          "id": "host-user-123",
+          "name": "Host User",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-10-06T09:16:30.089Z"
+        },
+        {
+          "id": "member-user-456",
+          "name": "Kasun",
+          "isHost": false,
+          "status": "offline",
+          "lastSeenAt": "2026-10-06T09:16:30.093Z"
+        }
+      ],
+      "settings": {
+        "locationSharing": true,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      },
+      "seq": 0,
+      "messages": []
+    },
+    {
+      "id": "convoy_B1jTuX9R",
+      "name": "Weekend Road Trip",
+      "code": "YYCBS",
+      "hostId": "c2bf4280-42b4-4b6f-a646-69ee02d97eec",
+      "phase": "active",
+      "seq": 2,
+      "members": [
+        {
+          "id": "c2bf4280-42b4-4b6f-a646-69ee02d97eec",
+          "name": "anoj",
+          "isHost": true,
+          "status": "offline",
+          "lastSeenAt": "2026-10-06T10:50:46.742Z",
+          "location": {
+            "lat": 6.8888767,
+            "lng": 79.9752733,
+            "heading": 0,
+            "speed": 0,
+            "timestamp": 1791283846742
+          }
+        }
+      ],
+      "messages": [
+        {
+          "id": "m_SXunHGri",
+          "senderId": "ce01a8b5-dcb1-4b23-a494-958e8d17129c",
+          "senderName": "Alex",
+          "text": "hi",
+          "sentAt": "2026-10-06T10:32:39.524Z",
+          "clientId": "c_1791282757834_oouafj",
+          "seq": 1
+        },
+        {
+          "id": "m_QI3lHDti",
+          "senderId": "c2bf4280-42b4-4b6f-a646-69ee02d97eec",
+          "senderName": "anoj",
+          "text": "hello",
+          "sentAt": "2026-10-06T10:32:48.564Z",
+          "clientId": "c_1791282767662_hlb370",
+          "seq": 2
+        }
+      ],
+      "settings": {
+        "locationSharing": true,
+        "membersCanPtt": true,
+        "membersCanChat": true,
+        "membersCanInvite": true
+      }
+    }
+  ],
+  "savedAt": 1791284949118
+}
